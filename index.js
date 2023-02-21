@@ -1,5 +1,5 @@
 <option value="">Chọn ...</option> 
-<optgroup label="North Region">
+<optgroup label="Miền Bắc">
 <option value='Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)'>Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)</option>
 <option value='Hanoi - Đại học Hà Nội + LaTrobe (Hanoi University + LaTrobe)'>Hanoi - Đại học Hà Nội + LaTrobe (Hanoi University + LaTrobe)</option>
 <option value='Hanoi - Học viện Ngân hàng (Banking Academy)'>Hanoi - Học viện Ngân hàng (Banking Academy)</option>
@@ -92,7 +92,7 @@
 <option value='Hanoi - Đại học Kinh tế Quốc dân (National Economics University)'>Hanoi - Đại học Kinh tế Quốc dân (National Economics University)</option>
 
 </optgroup>
-<optgroup label="Central Region">
+<optgroup label="Miền Trung">
 <option value='Da Nang - Đại học Kinh tế Đà Nẵng (Da Nang University of Economics)'>Da Nang - Đại học Kinh tế Đà Nẵng (Da Nang University of Economics)</option>
 <option value='Da Nang - Đại học Ngoại ngữ Đà Nẵng (Da Nang College of Foreign Languages)'>Da Nang - Đại học Ngoại ngữ Đà Nẵng (Da Nang College of Foreign Languages)</option>
 <option value='Da Nang - Đại học Bách khoa Đà Nẵng (Da Nang University of Technology)'>Da Nang - Đại học Bách khoa Đà Nẵng (Da Nang University of Technology)</option>
@@ -135,7 +135,7 @@
 <option value='Hue - Đại học Huế - Khoa Luật (Hue University - Faculty of Law)'>Da Nang - Đại học Huế - Khoa Luật (Hue University - Faculty of Law)</option>
 <option value='Hue - Viện Nghiên Cứu Việt - Anh'>Da Nang - Viện Nghiên Cứu Việt - Anh</option>
 </optgroup>
-<optgroup label="South Region">
+<optgroup label="Miền Nam">
 
 <option value='HCMC - Đại học Kinh tế TP. HCM (University of Economics)'>HCMC - Đại học Kinh tế TP. HCM (University of Economics)</option>
 <option value='HCMC - Đại học Khoa học Xã hội và Nhân văn (University of Social Sciences and Humanities)'>HCMC - Đại học Khoa học Xã hội và Nhân văn (University of Social Sciences and Humanities)</option>
