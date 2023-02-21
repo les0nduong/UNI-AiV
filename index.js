@@ -254,3 +254,6 @@
 <option value='Can Tho - Cao đẳng nghề Du lịch Cần Thơ'>Can Tho - Cao đẳng nghề Du lịch Cần Thơ</option>
 
 </optgroup>
+<optgroup label="Khác">
+<option value="other--uni">Khác</option>    
+</optgroup>
