@@ -1,7 +1,5 @@
 <option value="">Chọn ...</option> 
-    
-<option value="other--uni-2">Khác</option>
-
+<optgroup label="North Region"></optgroup>
 <option value='Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)'>Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)</option>
 <option value='Hanoi - Đại học Hà Nội + LaTrobe (Hanoi University + LaTrobe)'>Hanoi - Đại học Hà Nội + LaTrobe (Hanoi University + LaTrobe)</option>
 <option value='Hanoi - Học viện Ngân hàng (Banking Academy)'>Hanoi - Học viện Ngân hàng (Banking Academy)</option>
@@ -88,10 +86,13 @@
 <option value='Hanoi - Đại học Khoa học Thái Nguyên (Thai Nguyen University of Sciences (TNUS))'>Hanoi - Đại học Khoa học Thái Nguyên (Thai Nguyen University of Sciences (TNUS))</option>
 <option value='Hanoi - Đại học Phương Đông (Phuong Dong University)'>Hanoi - Đại học Phương Đông (Phuong Dong University)</option>
 <option value='Hanoi - Cao Đẳng Sư Phạm Hà Nội (Hanoi College of Education)'>Hanoi - Cao Đẳng Sư Phạm Hà Nội (Hanoi College of Education)</option>
-<option value='Hanoi - Học viện Phụ nữ Việt Nam (Vietnam Women's Academy)'>Hanoi - Học viện Phụ nữ Việt Nam (Vietnam Womens Academy)</option>
+<option value='Hanoi - Học viện Phụ nữ Việt Nam (Vietnam Womens Academy)'>Hanoi - Học viện Phụ nữ Việt Nam (Vietnam Womens Academy)</option>
 <option value='Hanoi - VinUniversity'>Hanoi - VinUniversity</option>
 <option value='Hanoi - Gap year after highschool in North region (exclude Hanoi)'>Hanoi - Gap year after highschool in North region (exclude Hanoi)</option>
 <option value='Hanoi - Đại học Kinh tế Quốc dân (National Economics University)'>Hanoi - Đại học Kinh tế Quốc dân (National Economics University)</option>
+
+</optgroup>
+<optgroup label="Central Region"></optgroup>
 <option value='Da Nang - Đại học Kinh tế Đà Nẵng (Da Nang University of Economics)'>Da Nang - Đại học Kinh tế Đà Nẵng (Da Nang University of Economics)</option>
 <option value='Da Nang - Đại học Ngoại ngữ Đà Nẵng (Da Nang College of Foreign Languages)'>Da Nang - Đại học Ngoại ngữ Đà Nẵng (Da Nang College of Foreign Languages)</option>
 <option value='Da Nang - Đại học Bách khoa Đà Nẵng (Da Nang University of Technology)'>Da Nang - Đại học Bách khoa Đà Nẵng (Da Nang University of Technology)</option>
@@ -132,7 +133,11 @@
 <option value='Da Nang - Đại học Huế - Khoa Du Lịch (Hue University - Faculty of Tourism)'>Da Nang - Đại học Huế - Khoa Du Lịch (Hue University - Faculty of Tourism)</option>
 <option value='Da Nang - Đại học Huế - Khoa Giáo Dục Thể Chất (Hue University - Faculty of Physical Education)'>Da Nang - Đại học Huế - Khoa Giáo Dục Thể Chất (Hue University - Faculty of Physical Education)</option>
 <option value='Da Nang - Đại học Huế - Khoa Luật (Hue University - Faculty of Law)'>Da Nang - Đại học Huế - Khoa Luật (Hue University - Faculty of Law)</option>
-<option value='Da Nang - Viện Nghiên Cứu Việt - Anh'>Da Nang - Viện Nghiên Cứu Việt - Anh</option><option value='HCMC - Đại học Kinh tế TP. HCM (University of Economics)'>HCMC - Đại học Kinh tế TP. HCM (University of Economics)</option>
+<option value='Da Nang - Viện Nghiên Cứu Việt - Anh'>Da Nang - Viện Nghiên Cứu Việt - Anh</option>
+</optgroup>
+<optgroup label="South Region"></optgroup>
+
+<option value='HCMC - Đại học Kinh tế TP. HCM (University of Economics)'>HCMC - Đại học Kinh tế TP. HCM (University of Economics)</option>
 <option value='HCMC - Đại học Khoa học Xã hội và Nhân văn (University of Social Sciences and Humanities)'>HCMC - Đại học Khoa học Xã hội và Nhân văn (University of Social Sciences and Humanities)</option>
 <option value='HCMC - Đại học Quốc tế (International University)'>HCMC - Đại học Quốc tế (International University)</option>
 <option value='HCMC - Đại học Hoa Sen (Hoa Sen University)'>HCMC - Đại học Hoa Sen (Hoa Sen University)</option>
@@ -248,3 +253,4 @@
 <option value='Can Tho - Cao đẳng Y tế Cần Thơ'>Can Tho - Cao đẳng Y tế Cần Thơ</option>
 <option value='Can Tho - Cao đẳng nghề Du lịch Cần Thơ'>Can Tho - Cao đẳng nghề Du lịch Cần Thơ</option>
 
+</optgroup>
