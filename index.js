@@ -1,5 +1,5 @@
 <option value="">Chọn ...</option> 
-<optgroup label="North Region"></optgroup>
+<optgroup label="North Region">
 <option value='Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)'>Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)</option>
 <option value='Hanoi - Đại học Hà Nội + LaTrobe (Hanoi University + LaTrobe)'>Hanoi - Đại học Hà Nội + LaTrobe (Hanoi University + LaTrobe)</option>
 <option value='Hanoi - Học viện Ngân hàng (Banking Academy)'>Hanoi - Học viện Ngân hàng (Banking Academy)</option>
@@ -92,13 +92,13 @@
 <option value='Hanoi - Đại học Kinh tế Quốc dân (National Economics University)'>Hanoi - Đại học Kinh tế Quốc dân (National Economics University)</option>
 
 </optgroup>
-<optgroup label="Central Region"></optgroup>
+<optgroup label="Central Region">
 <option value='Da Nang - Đại học Kinh tế Đà Nẵng (Da Nang University of Economics)'>Da Nang - Đại học Kinh tế Đà Nẵng (Da Nang University of Economics)</option>
 <option value='Da Nang - Đại học Ngoại ngữ Đà Nẵng (Da Nang College of Foreign Languages)'>Da Nang - Đại học Ngoại ngữ Đà Nẵng (Da Nang College of Foreign Languages)</option>
 <option value='Da Nang - Đại học Bách khoa Đà Nẵng (Da Nang University of Technology)'>Da Nang - Đại học Bách khoa Đà Nẵng (Da Nang University of Technology)</option>
 <option value='Da Nang - Viện Nghiên Cứu & Đào Tạo Việt - Anh Đà Nẵng'>Da Nang - Viện Nghiên Cứu & Đào Tạo Việt - Anh Đà Nẵng</option>
 <option value='Da Nang - Đại học Duy Tân (Duy Tan University)'>Da Nang - Đại học Duy Tân (Duy Tan University)</option>
-<option value='Da Nang - Đại học Ngoại Ngữ - ĐH Huế (Hue University of Foreign Languages)'>Da Nang - Đại học Ngoại Ngữ - ĐH Huế (Hue University of Foreign Languages)</option>
+<option value='Hue - Đại học Ngoại Ngữ - ĐH Huế (Hue University of Foreign Languages)'>Da Nang - Đại học Ngoại Ngữ - ĐH Huế (Hue University of Foreign Languages)</option>
 <option value='Da Nang - Đại học Sư phạm Đà Nẵng (Da Nang College of Education)'>Da Nang - Đại học Sư phạm Đà Nẵng (Da Nang College of Education)</option>
 <option value='Da Nang - Đại học Đà Nẵng Phân hiệu tại Kontum (Da Nang University Branch at Kontum)'>Da Nang - Đại học Đà Nẵng Phân hiệu tại Kontum (Da Nang University Branch at Kontum)</option>
 <option value='Da Nang - Đại học Kỹ Thuật Y Dược Đà Nẵng (Danang University of Medical Technique)'>Da Nang - Đại học Kỹ Thuật Y Dược Đà Nẵng (Danang University of Medical Technique)</option>
@@ -117,25 +117,25 @@
 <option value='Da Nang - Cao đẳng Lương Thực Thực Phẩm (Danang College of Food)'>Da Nang - Cao đẳng Lương Thực Thực Phẩm (Danang College of Food)</option>
 <option value='Da Nang - Cao đẳng Phương Đông - Đà Nẵng (Danang Phuong Dong College)'>Da Nang - Cao đẳng Phương Đông - Đà Nẵng (Danang Phuong Dong College)</option>
 <option value='Da Nang - Cao đẳng Thương Mại Đà Nẵng (Danang College of Commerce)'>Da Nang - Cao đẳng Thương Mại Đà Nẵng (Danang College of Commerce)</option>
-<option value='Da Nang - Cao đẳng Tư Thục Đức Trí - Đà Nẵng (Danang Duc Tri College)'>Da Nang - Cao đẳng Tư Thục Đức Trí - Đà Nẵng (Danang Duc Tri College)</option>
-<option value='Da Nang - Cao đẳng Công Nghiệp Huế (Hue College of Industry)'>Da Nang - Cao đẳng Công Nghiệp Huế (Hue College of Industry)</option>
-<option value='Da Nang - Cao đẳng Sư Phạm Thừa Thiên Huế (Hue College of Education)'>Da Nang - Cao đẳng Sư Phạm Thừa Thiên Huế (Hue College of Education)</option>
-<option value='Da Nang - Cao đẳng Xây Dựng Công Trình Đô Thị - Cơ Sở Huế (Hue College of Urban Construction Engineering)'>Da Nang - Cao đẳng Xây Dựng Công Trình Đô Thị - Cơ Sở Huế (Hue College of Urban Construction Engineering)</option>
-<option value='Da Nang - Cao đẳng Y Tế Huế (Hue College of Medicine)'>Da Nang - Cao đẳng Y Tế Huế (Hue College of Medicine)</option>
-<option value='Da Nang - Đại học Khoa Học - ĐH Huế (Hue University of Science)'>Da Nang - Đại học Khoa Học - ĐH Huế (Hue University of Science)</option>
-<option value='Da Nang - Đại học Kinh Tế - ĐH Huế (Hue University of Economic)'>Da Nang - Đại học Kinh Tế - ĐH Huế (Hue University of Economic)</option>
-<option value='Da Nang - Đại học Nghệ Thuật - ĐH Huế (Hue University of Arts)'>Da Nang - Đại học Nghệ Thuật - ĐH Huế (Hue University of Arts)</option>
-<option value='Da Nang - Đại học Nông Lâm - ĐH Huế (Hue University of Agriculture and Forestry)'>Da Nang - Đại học Nông Lâm - ĐH Huế (Hue University of Agriculture and Forestry)</option>
-<option value='Da Nang - Đại học Phú Xuân - Huế (Hue Phu Xuan University)'>Da Nang - Đại học Phú Xuân - Huế (Hue Phu Xuan University)</option>
-<option value='Da Nang - Đại học Sư Phạm - ĐH Huế (Hue University of Education)'>Da Nang - Đại học Sư Phạm - ĐH Huế (Hue University of Education)</option>
-<option value='Da Nang - Đại học Y Dược - ĐH Huế (Hue University of Medical)'>Da Nang - Đại học Y Dược - ĐH Huế (Hue University of Medical)</option>
-<option value='Da Nang - Học viện Âm Nhạc Huế (Hue Academy of Music)'>Da Nang - Học viện Âm Nhạc Huế (Hue Academy of Music)</option>
-<option value='Da Nang - Đại học Huế - Khoa Du Lịch (Hue University - Faculty of Tourism)'>Da Nang - Đại học Huế - Khoa Du Lịch (Hue University - Faculty of Tourism)</option>
-<option value='Da Nang - Đại học Huế - Khoa Giáo Dục Thể Chất (Hue University - Faculty of Physical Education)'>Da Nang - Đại học Huế - Khoa Giáo Dục Thể Chất (Hue University - Faculty of Physical Education)</option>
-<option value='Da Nang - Đại học Huế - Khoa Luật (Hue University - Faculty of Law)'>Da Nang - Đại học Huế - Khoa Luật (Hue University - Faculty of Law)</option>
-<option value='Da Nang - Viện Nghiên Cứu Việt - Anh'>Da Nang - Viện Nghiên Cứu Việt - Anh</option>
+<option value='Hue - Cao đẳng Tư Thục Đức Trí - Đà Nẵng (Danang Duc Tri College)'>Da Nang - Cao đẳng Tư Thục Đức Trí - Đà Nẵng (Danang Duc Tri College)</option>
+<option value='Hue - Cao đẳng Công Nghiệp Huế (Hue College of Industry)'>Da Nang - Cao đẳng Công Nghiệp Huế (Hue College of Industry)</option>
+<option value='Hue - Cao đẳng Sư Phạm Thừa Thiên Huế (Hue College of Education)'>Da Nang - Cao đẳng Sư Phạm Thừa Thiên Huế (Hue College of Education)</option>
+<option value='Hue - Cao đẳng Xây Dựng Công Trình Đô Thị - Cơ Sở Huế (Hue College of Urban Construction Engineering)'>Da Nang - Cao đẳng Xây Dựng Công Trình Đô Thị - Cơ Sở Huế (Hue College of Urban Construction Engineering)</option>
+<option value='Hue - Cao đẳng Y Tế Huế (Hue College of Medicine)'>Da Nang - Cao đẳng Y Tế Huế (Hue College of Medicine)</option>
+<option value='Hue - Đại học Khoa Học - ĐH Huế (Hue University of Science)'>Da Nang - Đại học Khoa Học - ĐH Huế (Hue University of Science)</option>
+<option value='Hue - Đại học Kinh Tế - ĐH Huế (Hue University of Economic)'>Da Nang - Đại học Kinh Tế - ĐH Huế (Hue University of Economic)</option>
+<option value='Hue - Đại học Nghệ Thuật - ĐH Huế (Hue University of Arts)'>Da Nang - Đại học Nghệ Thuật - ĐH Huế (Hue University of Arts)</option>
+<option value='Hue - Đại học Nông Lâm - ĐH Huế (Hue University of Agriculture and Forestry)'>Da Nang - Đại học Nông Lâm - ĐH Huế (Hue University of Agriculture and Forestry)</option>
+<option value='Hue - Đại học Phú Xuân - Huế (Hue Phu Xuan University)'>Da Nang - Đại học Phú Xuân - Huế (Hue Phu Xuan University)</option>
+<option value='Hue - Đại học Sư Phạm - ĐH Huế (Hue University of Education)'>Da Nang - Đại học Sư Phạm - ĐH Huế (Hue University of Education)</option>
+<option value='Hue - Đại học Y Dược - ĐH Huế (Hue University of Medical)'>Da Nang - Đại học Y Dược - ĐH Huế (Hue University of Medical)</option>
+<option value='Hue - Học viện Âm Nhạc Huế (Hue Academy of Music)'>Da Nang - Học viện Âm Nhạc Huế (Hue Academy of Music)</option>
+<option value='Hue - Đại học Huế - Khoa Du Lịch (Hue University - Faculty of Tourism)'>Da Nang - Đại học Huế - Khoa Du Lịch (Hue University - Faculty of Tourism)</option>
+<option value='Hue - Đại học Huế - Khoa Giáo Dục Thể Chất (Hue University - Faculty of Physical Education)'>Da Nang - Đại học Huế - Khoa Giáo Dục Thể Chất (Hue University - Faculty of Physical Education)</option>
+<option value='Hue - Đại học Huế - Khoa Luật (Hue University - Faculty of Law)'>Da Nang - Đại học Huế - Khoa Luật (Hue University - Faculty of Law)</option>
+<option value='Hue - Viện Nghiên Cứu Việt - Anh'>Da Nang - Viện Nghiên Cứu Việt - Anh</option>
 </optgroup>
-<optgroup label="South Region"></optgroup>
+<optgroup label="South Region">
 
 <option value='HCMC - Đại học Kinh tế TP. HCM (University of Economics)'>HCMC - Đại học Kinh tế TP. HCM (University of Economics)</option>
 <option value='HCMC - Đại học Khoa học Xã hội và Nhân văn (University of Social Sciences and Humanities)'>HCMC - Đại học Khoa học Xã hội và Nhân văn (University of Social Sciences and Humanities)</option>
