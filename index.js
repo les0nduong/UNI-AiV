@@ -255,5 +255,5 @@
 
 </optgroup>
 <optgroup label="Other">
-<option value="other--uni">Khác</option>    
+<option value="other--uni">Other</option>    
 </optgroup>
